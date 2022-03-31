@@ -1,0 +1,45 @@
+@import url("https://use.typekit.net/rjj3aqh.css");
+
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family: basic-sans;
+$font-weight: 400;
+
+$thin: 100;
+$extralight: 200;
+$light: 300;
+$regular: 400;
+$semibold: 600;
+$bold: 700;
+$black: 900;
+
+//images
+$main-bg: "/storage/assets/BEATCHAIN_BACKGR.png";
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+$rp-purple: #8f35e8;
+$rp-red: #e20000;
+
+$gradient-04: linear-gradient(
+    90deg,
+    rgba(143, 53, 232, 0.4) 0%,
+    rgba(226, 0, 0, 0.4) 100%
+);
+$gradient-06: linear-gradient(
+    90deg,
+    rgba(143, 53, 232, 0.6) 0%,
+    rgba(226, 0, 0, 0.6) 100%
+);
